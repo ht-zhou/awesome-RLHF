@@ -1,6 +1,8 @@
 # RLHF-papers
-Collecting RLHF papers.
+![Awesome](https://awesome.re/badge.svg)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/shenggan/awesome-distributed-ml/pulls)
 
+Collecting RLHF papers.
 ## Language 
 ### OpenAI
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593)
@@ -14,6 +16,9 @@ Collecting RLHF papers.
 
 ### DeepMind
 
+### Academia
+- [Learning to Summarise Without References](https://arxiv.org/abs/1909.01214)
+- [A survey of RL informed by natural language](https://arxiv.org/abs/1906.03926)
 ## Visual
 
 ## Theory
