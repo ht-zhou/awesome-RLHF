@@ -3,6 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/shenggan/awesome-distributed-ml/pulls)
 
 Collecting RLHF papers.
+The papers in each section are listed by time. 
 ## Language 
 ### OpenAI
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593)
